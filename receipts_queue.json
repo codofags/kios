@@ -1,0 +1,56 @@
+[
+  {
+    "taskId": "auto_close_1787328689745",
+    "body": {
+      "uuid": "auto_close_1787328689745",
+      "request": [
+        {
+          "type": "closeShift",
+          "operator": {
+            "name": "Автоматика"
+          }
+        }
+      ]
+    },
+    "addedAt": "2026-08-21T16:11:29.745Z",
+    "attempts": 1,
+    "isEphemeral": false,
+    "status": "stuck"
+  },
+  {
+    "taskId": "open_авто_1787387877979",
+    "body": {
+      "uuid": "open_авто_1787387877979",
+      "request": [
+        {
+          "type": "openShift",
+          "operator": {
+            "name": "Автоматика"
+          }
+        }
+      ]
+    },
+    "addedAt": "2026-08-22T08:37:57.979Z",
+    "attempts": 1,
+    "isEphemeral": false,
+    "status": "stuck"
+  },
+  {
+    "taskId": "open_авто_1787388980213",
+    "body": {
+      "uuid": "open_авто_1787388980213",
+      "request": [
+        {
+          "type": "openShift",
+          "operator": {
+            "name": "Автоматика"
+          }
+        }
+      ]
+    },
+    "addedAt": "2026-08-22T08:56:20.213Z",
+    "attempts": 1,
+    "isEphemeral": false,
+    "status": "stuck"
+  }
+]
